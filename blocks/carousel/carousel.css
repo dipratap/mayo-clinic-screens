@@ -52,7 +52,7 @@ html, body {
     transition: .3s;
 }
 .carousel-image {
-    height: 45%;
+    height: 40%;
     object-fit: cover;
     display: block;
 }
@@ -69,12 +69,12 @@ h1 {
 }
 p {
     font-size: large;
-    padding: 2% 0 0 0;
+    padding: 1% 0 0 0;
     font-family: "Times New Roman", Times, serif;
 }
 .footer-container {
     width: 100%;
-    padding: 1% 0 1% 0;
+    padding: 1.5% 0 1% 0;
     background-color: dimgrey;
     color: white;
     font-size: large;

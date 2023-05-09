@@ -67,7 +67,7 @@ const generateCarousel = (contentContainer) => {
     const heading = document.createElement('h1');
     heading.innerText = asset.offer;
     const description = document.createElement('p');
-    description.innerText = asset.description;
+    description.innerHTML = asset.description;
     textdiv.appendChild(heading);
     textdiv.appendChild(description);
     const carouselItem = document.createElement('div');
