@@ -7,7 +7,7 @@ html, body {
     padding: 0;
     margin: auto;
     height: 100%;
-    width: 37%;
+    width: 33%;
     display: grid;
     grid-template-rows: 14% 81% 5%;
     grid-gap: 0;
